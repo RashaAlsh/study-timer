@@ -1,0 +1,66 @@
+
+body {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    background: radial-gradient(circle at top, #1f2a17, #0e140a);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #eaffc7;
+  }
+
+  h1 {
+    font-size: 26px;
+    margin-bottom: 18px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #d5f365;
+    opacity: 0.9;
+  }
+  
+
+  #timer {
+    font-size: 76px;
+    font-weight: 700;
+    background: linear-gradient(145deg, #141f0f, #0b1307);
+    padding: 28px 56px;
+    border-radius: 18px;
+    letter-spacing: 5px;
+    margin-bottom: 28px;
+    color: #eaffc7;
+    box-shadow:
+      inset 0 0 0 1px rgba(213, 243, 101, 0.15),
+      0 20px 40px rgba(0, 0, 0, 0.7);
+  }
+  
+  .time-buttons,
+  .control-buttons {
+    margin-top: 12px;
+  }
+  
+  button {
+    padding-left: 33px;
+    padding-right: 33px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    border-radius: 9px;
+    background: #d5f365;
+    border: none;
+    font-family: inherit;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.4s;
+    color: #1a2608;
+    font-weight: 600;
+  }
+  
+  button:hover {
+    box-shadow: 7px 5px 56px -14px #C3D900;
+  }
+  
+  button:active {
+    transform: scale(0.97);
+    box-shadow: 7px 5px 56px -10px #C3D900;
+  }
+  
