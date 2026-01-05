@@ -22,5 +22,5 @@ Helps you focus by alternating between **study sessions** and **breaks**, with s
 4. Use **Pause** to pause the timer
 5. Click **Stop** to reset to the beginning
 
-## screenshot 📷
+## Screenshot 📷
 ![Study Timer Screenshot](https://i.ibb.co/84PZbdSj/study-timer.png)
