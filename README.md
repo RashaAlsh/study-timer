@@ -4,7 +4,7 @@
 A simple **study timer** built with HTML, CSS, and JavaScript.  
 Helps you focus by alternating between **study sessions** and **breaks**, with sound notifications and browser alerts.
 
- **Live Demo:** https://rashaalsh.github.io/study‑timer/
+ **Live Demo:** [https://rashaalsh.github.io/study‑timer/](https://rashaalsh.github.io/study-timer/)
 ## Features
 
 - Choose your **study duration** (25, 30, 35 minutes)  
